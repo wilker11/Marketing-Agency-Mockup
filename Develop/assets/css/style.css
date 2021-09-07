@@ -1,3 +1,4 @@
+
 /* This selector is used to select all element on the webpage */
 * {
     box-sizing: border-box;
@@ -136,7 +137,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
 /* this selector class was consolidate into one because they had the same functions and design*/
+
 .s {
     margin-bottom: 20px;
     padding: 50px;
@@ -145,7 +148,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 /* this class selector demonstrates how the content section is displayed */
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,7 +177,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 /* this selector class illustrates the bottom of the page designs */
+
 .footer {
     padding: 30px;
     clear: both;
