@@ -19,7 +19,8 @@ So that our own site is optimized for search engines.
 
 
 The URL of the deployed application.
-https://wilker11.github.io/Marketing-Agency-Mockup/
+https://wilker11.github.io/Marketing-Agency-Mockup/Develop/index.html
+
 
 
 The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
