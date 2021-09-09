@@ -23,5 +23,5 @@ https://wilker11.github.io/Marketing-Agency-Mockup/Develop/index.html
 
 
 
-The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+The URL of the GitHub repository. 
 https://github.com/wilker11/Marketing-Agency-Mockup
